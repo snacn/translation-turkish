@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "translation-turkish": {
+            "name": "Türkçe Çeviri",
+            "repo": "https://github.com/robiso/translation-slovenian/tree/master",
+            "zip": "https://github.com/robiso/translation-slovenian/archive/master.zip",
+            "summary": "WonderCMS ayarlarının Türkçe çevirisi.",
+            "version": "3.0.2",
+            "image": "https://raw.githubusercontent.com/robiso/translation-slovenian/master/preview.jpg"
+        }
+    }
+}

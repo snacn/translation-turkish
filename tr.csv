@@ -1,0 +1,110 @@
+OVERLAYS,
+>Saving,> Kaydediliyor
+>Checking for updates,> Güncellemeler Kontrol Ediliyor...
+,
+,
+BUTTONS,
+> Settings,> Ayarlar
+,
+,
+,
+,
+MENU ITEMS,
+>Current page,> Mevcut sayfa
+>Menu,> Menü
+>Files,> Dosyalar
+>Themes,> Temalar
+>Plugins,> Eklentiler
+>Security,> Güvenlik
+,
+,
+CURRENT PAGE,
+>Page title,> Sayfa Başlığı
+>Page keywords,> Anahar Kelimeler
+>Page description,> Sayfa Bilgileri
+Delete page,Sayfayı Sil
+return confirm\('Delete (.*?)\?'\),return confirm('Silinsin mi? - $1?')
+,
+,
+,
+MENU,
+>Website title,> Site Başlığı
+>Page to display on homepage,> Ana sayfada görüntülenecek sayfa
+>visit,> ziyaret
+> Add page,> Sayfa ekle
+Add subpage,Alt sayfa ekle
+Add new sub-page,Yeni alt sayfa ekle
+Move up,Yukarı taşı
+Move down,Alta taşı
+Visit page,Sayfaya git
+,
+,
+FILES,
+>Upload,> Yükle
+>Delete files,> Dosyaları Sil
+,
+,
+THEMES AND PLUGINS,
+> Check for updates,> Güncellemeleri kontrol edin
+return confirm\('Remove (.*?)\?'\),return confirm('Silinsin mi? - $1?')
+>Active,> Aktif
+return confirm\('Activate (.*?) theme\?'\),return confirm('Aktivieren $1?')
+> Activate,> Etkinleştir
+> More info,> Daha fazla bilgi
+> Install,> Kurulum
+>Installed version:,> Kurulu sürüm:
+>Custom repository,> Özel depo
+Enter URL to custom repository,Özel depo URL girin
+> Add,> Ekle
+> Read more about custom repositories,> Özel depolar hakkında daha fazla bilgi edinin
+>Custom module,>Özel modül
+,
+SECURITY,
+>Admin login URL,> Admin Giriş URLsi
+>Save your login URL to log in to your website next time:,> Bir dahaki sefere web sitenize giriş yapmak için giriş URL'nizi kaydedin:
+>Password,> Şifre
+Old password,Eski Şifre
+New password,Yeni Şifre
+Repeat new password,Yeni Şifre (Tekrar)
+> Change password,> Şifre Değiştir
+,
+> How to restore backup,> Yedekleme nasıl geri yüklenir
+>Improved security \(Apache only\),> Geliştirilmiş güvenlik (sadece Apache sunucusu)
+">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.","> HTTPS yönlendirme, 30 günlük önbelleğe alma, yalnızca aynı kaynaktan gelen iframe'lere izin verilmesi, mime türü koklamanın engellenmesi, daha sıkı çerez ve yönlendiren politikaları."
+>ON \(warning: may break your website\),> AÇIK \(Uyarı: web sitenizi bozabilir\)
+>OFF \(reset htaccess to default\),> KAPALI \(ek güvenliği sıfırla\)
+> Read more before enabling,> Etkinleştirmeden önce daha fazlasını okuyun
+>Backup,> Yedekleme
+> Backup website,> Web sitesini yedekle
+>Last 5 logins,> Son 5 kayıt
+>Site language config,> Site Dil Bilgileri
+>HTML lang value for admin.,>Admin için HTML dil değeri.
+>HTML lang value for visitors.,>Ziyaretçiler için HTML dil değeri.
+>Save confirmation popup,>Onay açılır penceresini kaydet
+">If this is turned ""ON"", WonderCMS will always ask you to confirm any changes you make.",">Bu seçenek ""AÇIK"" olarak ayarlandığında, WonderCMS yaptığınız değişiklikleri onaylamanızı her zaman isteyecektir."
+>Login redirect,> Giriş yönlendirmesi
+">If this is set to ""ON"", when logging out, you will be redirected to the login page. If set to ""OFF"", you will be redirected to the last viewed page.","> Bu ""AÇIK"" olarak ayarlanırsa, oturum kapattığınızda oturum açma sayfasına yönlendirileceksiniz. <br> ""KAPALI"" olarak ayarlanırsa, son görüntülenen sayfaya yönlendirileceksiniz."
+>Force HTTPS,> HTTPS Zorla
+">WonderCMS automatically checks for SSL, this will force to always use HTTPS.","> WonderCMS otomatik olarak SSL'i kontrol eder, bu da her zaman HTTPS kullanılmasını zorunlu kılar."
+Change your login URL and save it for later use. ,>Giriş URL'nizi değiştirin ve daha sonra kullanmak üzere kaydedin.
+Enter full URL to wcms-modules.json file,wcms-modules.json dosyasının tam URL'sini girin
+Read more about custom modules,Özel modüller hakkında daha fazla bilgi edinin
+,
+,
+STATISTICS,
+>Statistics,> İstatistikler
+>Today,> Bugün
+>This week,> Bu hafta
+>Most popular page,> Popular sayfalar
+>Pageviews last two weeks,> Son iki haftadaki sayfa görüntülemeleri
+>Sessions last two weeks,> Son iki haftadaki oturumlar
+>Sessions,> Oturumlar
+>Pageviews,> Sayfa görüntülemeleri
+,
+,
+FOOTER,
+>News,> Haberler
+>Community,> Topluluklar
+>Docs,> Belgeler
+>Donate,> Bağış Yap
+>Shop\/Merch,> Market
