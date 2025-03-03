@@ -2,7 +2,7 @@
     "version": 1,
     "plugins": {
         "translation-turkish": {
-            "name": "Türkçe Çeviri",
+            "name": "Türkçe Dil Çeviri",
             "repo": "https://github.com/snacn/translation-turkish/tree/master",
             "zip": "https://github.com/snacn/translation-turkish/archive/master.zip",
             "summary": "WonderCMS ayarlarının Türkçe çevirisi.",
